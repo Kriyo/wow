@@ -1,0 +1,10 @@
+
+DraenorTreasuresDB = {
+	["profileKeys"] = {
+		["Krimeariver - Ravencrest"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

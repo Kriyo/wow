@@ -1,0 +1,10 @@
+
+VWQL = {
+	["Krimeariver-TheMaelstrom"] = {
+		["Quests"] = {
+		},
+		["Filter"] = 63,
+	},
+	["Sort"] = 2,
+	["VERSION"] = 15,
+}

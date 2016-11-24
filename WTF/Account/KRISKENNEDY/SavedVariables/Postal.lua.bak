@@ -1,0 +1,17 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Krimeariver|Ravencrest|Alliance|100|HUNTER", -- [1]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Krimeariver - Ravencrest"] = "Krimeariver - Ravencrest",
+	},
+	["profiles"] = {
+		["Krimeariver - Ravencrest"] = {
+		},
+	},
+}

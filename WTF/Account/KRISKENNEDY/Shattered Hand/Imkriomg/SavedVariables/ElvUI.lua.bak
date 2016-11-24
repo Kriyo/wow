@@ -1,0 +1,30 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/camp", -- [1]
+	},
+	["ChatLog"] = {
+		["1469037134.279"] = {
+			"%s has earned the achievement |cffffff00|Hachievement:10686:Player-633-06FE938B:1:7:20:16:4294967295:4294967295:4294967295:4294967295|h[Fashionista: Waist]|h|r!", -- [1]
+			"Imkriomg-ShatteredHand", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Imkriomg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1052, -- [11]
+			"Player-633-06FE938B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			nil, -- [18]
+			nil, -- [19]
+			"CHAT_MSG_GUILD_ACHIEVEMENT", -- [20]
+		},
+	},
+}

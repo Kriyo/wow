@@ -1,0 +1,24 @@
+
+dbGACperChar = {
+	["profileKeys"] = {
+		["Krî - The Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["history"] = {
+				[932] = {
+					[1474195094] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1173] = {
+					[1474195096] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+			},
+		},
+	},
+}

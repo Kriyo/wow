@@ -1,0 +1,13 @@
+## Interface: 70100
+## Title: NameplateCooldowns
+## Notes: Shows the cooldowns of enemy players above their nameplates
+## SavedVariables: NameplateCooldownsDB
+## X-Curse-Packaged-Version: 70100.0-release
+## X-Curse-Project-Name: NameplateCooldowns
+## X-Curse-Project-ID: nameplatecooldowns
+## X-Curse-Repository-ID: wow/nameplatecooldowns/mainline
+
+embeds.xml
+localizations.lua
+spells.lua
+NameplateCooldowns.lua

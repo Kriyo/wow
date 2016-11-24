@@ -1,0 +1,10 @@
+
+LegionRaresTreasuresDB = {
+	["profileKeys"] = {
+		["Krï - The Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

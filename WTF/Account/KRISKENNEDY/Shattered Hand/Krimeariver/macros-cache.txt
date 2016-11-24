@@ -1,0 +1,31 @@
+VER 3 0100000000000002 "Col" "878212"
+.item 1 78688
+.item 3 78367
+.item 5 78657
+.item 6 78452
+.item 7 78705
+.item 8 78431
+.item 10 78668
+END
+VER 3 0100000000000001 "Lez" "INV_AXE_2H_DRAENORQUEST_B_01.BLP"
+.item 1 99959
+.item 3 99961
+.item 5 99957
+.item 7 99960
+.item 6 99887
+.item 8 99888
+.item 10 99958
+.item 19 98162
+.item 16 33688
+END
+VER 3 0100000000000003 "wrath" "841383"
+.item 1 51543
+.item 3 51545
+.item 5 51541
+.item 6 46041
+.item 7 51544
+.item 8 51363
+.item 10 51542
+.item 16 32838
+.item 17 32837
+END

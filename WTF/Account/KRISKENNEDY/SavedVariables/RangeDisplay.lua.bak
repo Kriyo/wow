@@ -1,0 +1,42 @@
+
+RangeDisplayDB3 = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Krimeariver - The Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["units"] = {
+				["pet"] = {
+				},
+				["playertarget"] = {
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+					["y"] = 131.000122070313,
+					["x"] = -15.0000457763672,
+				},
+				["arena2"] = {
+				},
+				["focus"] = {
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+					["y"] = 128.000305175781,
+					["x"] = 154.999649047852,
+				},
+				["mouseover"] = {
+					["y"] = 130.000244140625,
+					["x"] = -152.999847412109,
+					["point"] = "BOTTOM",
+					["relPoint"] = "BOTTOM",
+				},
+				["arena5"] = {
+				},
+				["arena4"] = {
+				},
+			},
+		},
+	},
+}

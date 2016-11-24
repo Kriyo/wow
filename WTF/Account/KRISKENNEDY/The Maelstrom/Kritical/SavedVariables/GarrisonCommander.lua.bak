@@ -1,0 +1,24 @@
+
+dbGACperChar = {
+	["profileKeys"] = {
+		["Kritical - The Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["history"] = {
+				[1180] = {
+					[1474195326] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1226] = {
+					[1474195327] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+			},
+		},
+	},
+}

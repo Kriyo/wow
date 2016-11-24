@@ -1,0 +1,9 @@
+VER 3 0100000000000001 "DET" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Deterrence
+/cast Deterrence
+END
+VER 3 0100000000000002 "pet" "INV_MISC_QUESTIONMARK"
+#showtooltip petattack
+/petattack
+END

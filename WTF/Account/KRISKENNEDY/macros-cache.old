@@ -1,0 +1,225 @@
+VER 3 0000000000000018 "$tep" "INV_MISC_QUESTIONMARK"
+.item 1 104574
+.item 3 104423
+.item 5 104596
+.item 6 104467
+.item 7 104520
+.item 8 104500
+.item 9 104446
+.item 10 104617
+.item 16 104545
+.item 17 104448
+.mount 51481
+END
+VER 3 0000000000000011 "/kneel" "INV_MISC_QUESTIONMARK"
+.item 1 33713
+END
+VER 3 000000000000001D "/run ChatFrame1:" "ABILITY_THROW"
+/run ChatFrame1:AddMessage(format("Unhittable at 102.4%% - you have %.2f%%", GetDodgeChance() + GetBlockChance() + GetParryChance() + 5 + 1/(0.0625 + 0.956/(GetCombatRating(CR_DEFENSE_SKILL)/4.91850*0.04))))
+END
+VER 3 000000000000002E "artifact track" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+/run local _,_,_,a, b = GetAchievementCriteriaInfo(11152,1) local _,_,_,c, d = GetAchievementCriteriaInfo(11153,1) local _,_,_,e, f = GetAchievementCriteriaInfo(11154,1) print("Dungeons: "..a.."/"..b) print("WQs: "..c.."/"..d) print("Kills: "..e.."/"..f)
+END
+VER 3 0000000000000016 "b00m" "Spell_Shadow_NetherProtection"
+/use Bottled Wishes
+/USE Volcanic Potion
+/cast[target=BOSS2] mind spike
+END
+VER 3 000000000000002A "b00m" "INV_MISC_QUESTIONMARK"
+#showtooltip avatar
+/cast Avatar
+/CAST RECKLESSNESS
+/use Dark Blaze Gauntlets
+/cast Deadly Calm
+/cast Blood Fury(Racial)
+/cast Skull Banner
+END
+VER 3 000000000000000C "Belroc" "INV_Misc_QuestionMark"
+.item 1 104657
+.item 3 104451
+.item 5 104634
+.item 6 104547
+.item 7 104474
+.item 8 104622
+.item 9 104602
+.item 10 104505
+.item 16 46017
+.item 17 30314
+.mount 31007
+END
+VER 3 0000000000000012 "Blazt" "Ability_Rogue_Disguise"
+#showtooltip Mind Blast
+/use Cataclysmic Gladiator's Badge of Dominance
+/cast mind blast
+END
+VER 3 0000000000000014 "CS" "INV_MISC_QUESTIONMARK"
+#showtooltip cobra shot
+/cast Kill Command
+/cast Cobra Shot
+/petattack
+END
+VER 3 0000000000000025 "dc" "INV_MISC_QUESTIONMARK"
+.item 1 22514
+.item 3 22515
+.item 5 22512
+.item 6 22518
+.item 7 22513
+.item 8 22516
+.item 9 22519
+.item 10 22517
+.item 16 104618
+.mount 51481
+END
+VER 3 0000000000000013 "Death" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Word: Death
+/cast [target=mouseover] Shadow Word: Death
+END
+VER 3 0000000000000001 "Dispersion" "Spell_Shadow_Dispersion"
+#showtooltip Dispersion
+/stopcasting
+/cancelaura Dispersion
+/cast Dispersion
+END
+VER 3 000000000000002D "eab" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+/stopcasting
+/stopcasting
+END
+VER 3 000000000000000F "Fl@y" "Ability_Mage_IncantersAbsorbtion"
+#showtooltip MIND FLAY
+/use Gloves of Liquid Smoke
+/cast [nochanneling:Mind Flay] Mind Flay ;
+END
+VER 3 0000000000000015 "focus" "INV_ENCHANT_SHARDBRILLIANTSMALL"
+/focus
+END
+VER 3 000000000000001A "Hor" "SPELL_SHADOW_PSYCHICHORRORS"
+#showtooltip Psychic Horror
+/cast [target=mouseover][target=target] Psychic Horror
+END
+VER 3 0000000000000029 "lash" "INV_MISC_QUESTIONMARK"
+.item 1 45164
+.item 3 45227
+.item 5 45524
+.item 6 45467
+.item 7 45504
+.item 8 45249
+.item 10 45109
+.item 16 34334
+.race 5
+.mount 46087
+.mount 59159
+a
+a
+END
+VER 3 0000000000000027 "mill" "INV_Glyph_PrimeRogue"
+/cast milling;
+/use Snow Lily;
+/use Green Tea Leaf;
+/use Fool's Cap;
+END
+VER 3 000000000000000D "Milling" "1035048"
+/cast Milling
+/use Fireweed
+END
+VER 3 000000000000001F "MUD" "Spell_Shadow_DeathsEmbrace"
+/evermorph me 37923
+END
+VER 3 000000000000001C "NLR" "INV_MISC_QUESTIONMARK"
+/2 No Logic 14/14HC[25M turning Mythic] is looking for ranged Dps. Check us out on http://www.no-logic.eu/  and contact me if you have any questions.
+END
+VER 3 0000000000000022 "petCome" "INV_Pet_BabyMurlocs_Pink"
+#showtooltip Follow(Pet Command)
+/cast Follow
+END
+VER 3 0000000000000023 "petGo" "INV_Pet_BabyMurlocs_White"
+#showtooltip Move To(Pet Command)
+/cast Move To
+END
+VER 3 0000000000000010 "pp" "ACHIEVEMENT_GUILDPERK_QUICK AND DEAD"
+.item 1 104480
+.item 3 60427
+.item 5 60423
+.item 6 51371
+.item 7 60426
+.item 8 51372
+.item 10 60424
+.item 16 32336
+END
+VER 3 0000000000000028 "pros" "INV_MISC_QUESTIONMARK"
+/cast Prospecting
+/use Ghost Iron Ore
+END
+VER 3 0000000000000024 "purify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover] Purify
+END
+VER 3 000000000000002C "sdasd" "INV_MISC_QUESTIONMARK"
+.item 1 22464
+.item 3 22465
+.item 5 22466
+.item 6 22467
+.item 7 22468
+.item 8 22469
+.item 9 22470
+.item 10 22471
+.item 16 104545
+.item 17 104448
+.mount 51481
+END
+VER 3 000000000000002B "sdasd" "ACHIEVEMENT_GUILDPERK_MASSRESURRECTION"
+.item 1 22418
+.item 3 22419
+.item 5 22416
+.item 6 22422
+.item 7 22417
+.item 8 22420
+.item 9 22423
+.item 10 22421
+.item 19 23709
+.item 16 42332
+.enchant 1 42974
+END
+VER 3 0000000000000003 "Shadowfiend" "Spell_Shadow_Shadowfiend"
+#showtooltip Shadowfiend
+/cast Shadowfiend
+/cast [pet, nomodifier] Shadowcrawl
+END
+VER 3 0000000000000004 "Shield Self" "Spell_Holy_PowerWordShield"
+#showtooltip Power Word: Shield
+/tar Rachen
+/cast Power Word: Shield
+/targetlasttarget
+END
+VER 3 000000000000001B "SHIIIIIIIIIIIIII" "INV_MISC_MAP08"
+#showtooltip Cataclysmic Gladiator's Emblem of Meditation
+/use Healthstone
+/use Cataclysmic Gladiator's Emblem of Meditation
+END
+VER 3 0000000000000017 "Silencenigga" "INV_MISC_QUESTIONMARK"
+#showtooltip silence
+/cast [target=mouseover] silence
+END
+VER 3 0000000000000019 "sts" "INV_MISC_QUESTIONMARK"
+.item 1 81316 
+.item 3 81318 
+.item 5 81314 
+.item 6 81312 
+.item 7 81317 
+.item 8 81313 
+.item 9 81311 
+.item 10 81316
+.item 16 34334
+END
+VER 3 000000000000000E "Swipe" "INV_Misc_QuestionMark"
+#showtooltip Swipe
+/castsequence reset=2 Swipe(Bear form), Thrash
+END
+VER 3 0000000000000020 "TMALE" "Spell_Misc_EmotionHappy"
+/evermorph me 20321
+END
+VER 3 000000000000001E "UDF" "Spell_Magic_PolymorphRabbit"
+/evermorph me 37924
+END
+VER 3 0000000000000005 "VT" "INV_Misc_QuestionMark"
+END

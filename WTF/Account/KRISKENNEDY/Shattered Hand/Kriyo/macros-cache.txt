@@ -1,0 +1,22 @@
+VER 3 0100000000000001 "asdas" "SPELL_NATURE_BLOODLUST"
+.item 1 102693
+.item 3 102629
+.item 5 102717
+.item 7 102719
+.item 8 102623
+.item 6 102668
+.item 16 124369
+.item 17 124369
+END
+VER 3 0100000000000002 "derp" "INV_HELMET_52"
+.item 1 81316 
+.item 3 81318 
+.item 5 81314 
+.item 6 81312 
+.item 7 81317 
+.item 8 81313 
+.item 9 81311 
+.item 10 81316
+.item 16 124369
+.item 17 124369
+END

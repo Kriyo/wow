@@ -1,0 +1,370 @@
+
+VExRT = {
+	["BattleRes"] = {
+	},
+	["ProfileKeys"] = {
+		["Krimeariver-Ravencrest"] = "default",
+	},
+	["Arrow"] = {
+	},
+	["Encounter"] = {
+		["names"] = {
+			[1787] = "Kormrok",
+			[1798] = "Hellfire High Council",
+		},
+		["list"] = {
+			["Krimeariver"] = {
+				"6FBF14524610750B4020Rayanne-TheMaelstrom", -- [1]
+				"6FBF14524614130F1120Daxiy-Auchindoun", -- [2]
+				"706F14524628100AC020Daxiy-Auchindoun", -- [3]
+				"706F14524632280CE020Daxiy-Auchindoun", -- [4]
+			},
+		},
+	},
+	["Marks"] = {
+		["list"] = {
+		},
+	},
+	["Coins"] = {
+		["list"] = {
+			"9188960Masaob-Outland1452461660", -- [1]
+			"3188960Hermionshen-Kael'thas1452461662", -- [2]
+			"!3124304Hermionshen-Kael'thas1452461662:1:567:529", -- [3]
+			"5188960Ysolda-Nagrand1452461663", -- [4]
+			"!5124363Ysolda-Nagrand1452461663:1:567:529", -- [5]
+			"1188960Lunaryel-Nagrand1452461664", -- [6]
+			"A188960Daxiy-Auchindoun1452461666", -- [7]
+			"5188960Atloreion-Aszune1452461670", -- [8]
+			"1188960Drondark1452461681", -- [9]
+			"B188960Nexiius-Nagrand1452461689", -- [10]
+			"!B124377Nexiius-Nagrand1452461689:1:567:529", -- [11]
+			"7188960Welcomehome-Nagrand1452461704", -- [12]
+			"8188960Ashkay-Nagrand1452461711", -- [13]
+			"B188960Wolfsi-Kilrogg1452461752", -- [14]
+			"!B124363Wolfsi-Kilrogg1452461752:1:567:529", -- [15]
+			"3188960Chiraku-Nagrand1452461769", -- [16]
+		},
+	},
+	["ExCD2"] = {
+		["default_userDuration"] = {
+		},
+		["gnGUIDs"] = {
+			["Snickersx-Silvermoon"] = 256,
+			["Krimeariver"] = 254,
+			["Nexiius-Nagrand"] = 104,
+			["Nasdruid-Runetotem"] = 105,
+			["Helendea-Nagrand"] = 257,
+			["Chiraku-Nagrand"] = 254,
+			["Atloreion-Aszune"] = 258,
+			["Welcomehome-Nagrand"] = 264,
+			["Ysolda-Nagrand"] = 258,
+			["Lunaryel-Nagrand"] = 71,
+			["Mundo-EarthenRing"] = 269,
+			["Wolfsi-Kilrogg"] = 102,
+			["Deathdraenei-Nagrand"] = 70,
+			["Ashkay-Nagrand"] = 62,
+			["Hermionshen-Kael'thas"] = 254,
+			["Masaob-Outland"] = 265,
+			["Daxiy-Auchindoun"] = 268,
+			["Rayanne-TheMaelstrom"] = 103,
+		},
+		["NoRaid"] = true,
+		["CDECol"] = {
+		},
+		["default_userCD"] = {
+		},
+		["Save"] = {
+		},
+		["colSet"] = {
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [1]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [2]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [3]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [4]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [5]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [6]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [7]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [8]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [9]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [10]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["textureGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [11]
+		},
+		["Priority"] = {
+		},
+		["CDE"] = {
+		},
+		["userDB"] = {
+		},
+	},
+	["Bossmods"] = {
+		["KormrokSetups"] = {
+		},
+		["Mannoroth"] = {
+		},
+		["Kormrok"] = {
+			[31] = "Klemmé",
+			[38] = "Krimeariver-Ravencrest",
+			[46] = "Rayanne-TheMaelstrom",
+			[149] = "Wolfsi-Kilrogg",
+			[231] = "Klemmé",
+			[260] = "Chiraku",
+			[259] = "Deathdraenei",
+			[41] = "Atloreion-Aszune",
+			[246] = "Rayanne-TheMaelstrom",
+			[39] = "Daxiy-Auchindoun",
+			[248] = "Ashkay",
+			[243] = "Nexiius",
+			[63] = "Snickersx-Silvermoon",
+			[242] = "Helendea",
+			[249] = "Wolfsi-Kilrogg",
+			[32] = "Ysolda",
+			[126] = "Masaob-Outland",
+			[40] = "Welcomehome",
+			[48] = "Ashkay",
+			[239] = "Daxiy-Auchindoun",
+			[131] = "Klemmé",
+			[140] = "Welcomehome",
+			[236] = "Nasdruid-Runetotem",
+			[159] = "Deathdraenei",
+			[33] = "Mundo-EarthenRing",
+			["name"] = "Klemmé-Nagrand",
+			[49] = "Wolfsi-Kilrogg",
+			[148] = "Ashkay",
+			[232] = "Ysolda",
+			[225] = "Hermionshen-Kael'thas",
+			[25] = "Hermionshen-Kael'thas",
+			[29] = "Lunaryel",
+			[132] = "Ysolda",
+			[42] = "Helendea",
+			[133] = "Mundo-EarthenRing",
+			[263] = "Snickersx-Silvermoon",
+			[226] = "Masaob-Outland",
+			[229] = "Lunaryel",
+			[163] = "Snickersx-Silvermoon",
+			[160] = "Chiraku",
+			[136] = "Nasdruid-Runetotem",
+			[43] = "Nexiius",
+			[137] = "Drondark-Ravencrest",
+			[59] = "Deathdraenei",
+			[138] = "Krimeariver-Ravencrest",
+			[233] = "Mundo-EarthenRing",
+			[26] = "Masaob-Outland",
+			["time"] = 1452460930,
+			[36] = "Nasdruid-Runetotem",
+			[139] = "Daxiy-Auchindoun",
+			[141] = "Atloreion-Aszune",
+			[60] = "Chiraku",
+			[142] = "Helendea",
+			[237] = "Drondark-Ravencrest",
+			[143] = "Nexiius",
+			[238] = "Krimeariver-Ravencrest",
+			[37] = "Drondark-Ravencrest",
+			["sync"] = true,
+			[125] = "Hermionshen-Kael'thas",
+			[240] = "Welcomehome",
+			[146] = "Rayanne-TheMaelstrom",
+			[241] = "Atloreion-Aszune",
+			[129] = "Lunaryel",
+		},
+		["Kromog"] = {
+		},
+	},
+	["LegendaryRing"] = {
+	},
+	["InspectViewer"] = {
+	},
+	["Addon"] = {
+		["Timer"] = 0.1,
+		["Version"] = 3555,
+		["PreVersion"] = 0,
+	},
+	["Profiles"] = {
+	},
+	["BossWatcher"] = {
+		["fightsNum"] = 2,
+		["autoSegments"] = {
+		},
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["Strata"] = "HIGH",
+		["LastUpdateName"] = "Deathdraenei-Nagrand",
+		["LastUpdateTime"] = 1452462720,
+		["Width"] = 200,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["Height"] = 100,
+		["Text1"] = "Spirit link  + rallying \ndevine hynm + healing ring\nSpirit link + rallying\nTranq + barrier\n\nPersonals when called",
+		["FontSize"] = 12,
+	},
+	["RaidCheck"] = {
+		["FlaskExp"] = 1,
+		["ReadyCheckFrameTimerFade"] = 4,
+	},
+	["Logging"] = {
+	},
+	["MarksBar"] = {
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+		},
+		["pulltimer"] = 10,
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 3,
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
+	},
+	["Timers"] = {
+	},
+}

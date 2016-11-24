@@ -1,0 +1,35 @@
+BINDINGMODE 0
+bind 1 ACTIONBUTTON1
+bind 2 ACTIONBUTTON2
+bind 3 ACTIONBUTTON3
+bind 4 ACTIONBUTTON4
+bind 5 ACTIONBUTTON5
+bind 6 NONE
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 NONE
+bind - NONE
+bind = NONE
+bind CTRL-1 CLICK BT4Button22:LeftButton
+bind CTRL-2 CLICK BT4Button20:LeftButton
+bind CTRL-3 CLICK BT4Button21:LeftButton
+bind SHIFT-1 CLICK BT4Button17:LeftButton
+bind SHIFT-2 CLICK BT4Button37:LeftButton
+bind G ACTIONBUTTON7
+bind V CLICK BT4Button14:LeftButton
+bind SHIFT-V CLICK BT4Button26:LeftButton
+bind SHIFT-T CLICK BT4Button16:LeftButton
+bind SHIFT-C ACTIONBUTTON12
+bind CTRL-S ACTIONBUTTON10
+bind SHIFT-G ACTIONBUTTON11
+bind SHIFT-S ACTIONBUTTON6
+bind SHIFT-E ACTIONBUTTON8
+bind SHIFT-A ACTIONBUTTON9
+bind SHIFT-H CLICK BT4Button38:LeftButton
+bind SHIFT-X CLICK BT4Button23:LeftButton
+bind CTRL-G CLICK BT4Button19:LeftButton
+bind SHIFT-Q CLICK BT4Button18:LeftButton
+bind SHIFT-W CLICK BT4Button15:LeftButton
+bind CTRL-B CLICK BT4Button13:LeftButton
+modifiedclick SHIFT PICKUPACTION

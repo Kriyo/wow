@@ -1,0 +1,19 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Krimeariver - Ravencrest"] = "Krimeariver - Ravencrest",
+	},
+	["profiles"] = {
+		["Krimeariver - Ravencrest"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Krimeariver - Ravencrest"] = "Krimeariver - Ravencrest",
+	},
+	["profiles"] = {
+		["Krimeariver - Ravencrest"] = {
+		},
+	},
+}

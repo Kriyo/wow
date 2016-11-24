@@ -1,0 +1,77 @@
+VER 3 010000000000000B "Binding" "INV_MISC_QUESTIONMARK"
+#showtooltip Binding Heal
+/cast [target=mouseover] Binding Heal
+END
+VER 3 010000000000000D "cas" "INV_MISC_QUESTIONMARK"
+#showtooltip Cascade
+/cast [target=mouseover] Cascade
+END
+VER 3 0100000000000011 "chas" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Word: Chastise
+/cast [target=mouseover] Holy Word: Chastise
+END
+VER 3 010000000000000F "Coh" "INV_MISC_QUESTIONMARK"
+#showtooltip circle of healing
+/cast [target=mouseover] circle of healing
+END
+VER 3 0100000000000005 "Cow" "INV_MISC_QUESTIONMARK"
+#showtooltip Clarity of Will
+/cast [target=mouseover] Clarity of Will
+END
+VER 3 0100000000000001 "flash" "INV_MISC_QUESTIONMARK"
+#showtooltip flash heal
+/cast [target=mouseover] flash heal
+END
+VER 3 0100000000000003 "GH" "INV_MISC_QUESTIONMARK"
+#showtooltip greater heal
+/cast [target=mouseover] greater heal
+END
+VER 3 0100000000000010 "gs" "INV_MISC_QUESTIONMARK"
+#showtooltip Guardian Spirit
+/cast [target=mouseover] Guardian Spirit
+END
+VER 3 010000000000000C "Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip heal
+/cast [target=mouseover] heal
+END
+VER 3 010000000000000A "LoF" "INV_MISC_QUESTIONMARK"
+#showtooltip leap of faith
+/cast [target=mouseover] leap of faith
+END
+VER 3 0100000000000004 "Pain Sup" "INV_MISC_QUESTIONMARK"
+#showtooltip pain suppression
+/cast [target=mouseover] pain suppression
+END
+VER 3 0100000000000002 "penance" "INV_MISC_QUESTIONMARK"
+#showtooltip penance
+/cast [target=mouseover] penance
+END
+VER 3 0100000000000008 "PoH" "INV_MISC_QUESTIONMARK"
+#showtooltip prayer of healing
+/cast [target=mouseover] prayer of healing
+END
+VER 3 0100000000000009 "PoM" "INV_MISC_QUESTIONMARK"
+#showtooltip prayer of mending
+/cast [target=mouseover] prayer of mending
+END
+VER 3 0100000000000007 "purify" "INV_MISC_QUESTIONMARK"
+#showtooltip purify
+/cast [target=mouseover] purify
+END
+VER 3 0100000000000006 "PW:S" "INV_MISC_QUESTIONMARK"
+#showtooltip power word: Shield
+/cast [target=mouseover] power word: shield
+END
+VER 3 0100000000000012 "ren" "INV_MISC_QUESTIONMARK"
+#showtooltip renew
+/cast [target=mouseover] renew
+END
+VER 3 010000000000000E "xd" "INV_MISC_QUESTIONMARK"
+.item 16 124382
+.item 1 124909
+.item 3 124912
+.item 5 124911
+.item 6 124902
+.item 10 124908
+.item 8 124904
+END

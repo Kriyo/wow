@@ -1,0 +1,46 @@
+
+MSBTProfiles_SavedVars = {
+	["profiles"] = {
+		["Default"] = {
+			["critFontName"] = "Liberation Sans",
+			["scrollAreas"] = {
+				["Static"] = {
+					["offsetY"] = -352,
+					["offsetX"] = -26,
+				},
+				["Incoming"] = {
+					["direction"] = "Left",
+					["behavior"] = "GrowUp",
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["stickyDirection"] = "Up",
+					["offsetX"] = -358,
+					["offsetY"] = 150,
+					["animationStyle"] = "Horizontal",
+					["stickyAnimationStyle"] = "Static",
+				},
+				["Notification"] = {
+					["offsetY"] = 168,
+					["offsetX"] = -150,
+				},
+				["Outgoing"] = {
+					["direction"] = "Right",
+					["behavior"] = "GrowUp",
+					["stickyBehavior"] = "MSBT_NORMAL",
+					["stickyDirection"] = "Up",
+					["offsetX"] = 358,
+					["offsetY"] = 151,
+					["animationStyle"] = "Horizontal",
+					["stickyAnimationStyle"] = "Static",
+				},
+			},
+			["normalFontName"] = "Liberation Sans",
+			["creationVersion"] = "5.7.143",
+		},
+	},
+}
+MSBT_SavedMedia = {
+	["fonts"] = {
+	},
+	["sounds"] = {
+	},
+}

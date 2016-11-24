@@ -1,0 +1,73 @@
+VER 3 0100000000000006 "Cleanse" "INV_Misc_QuestionMark"
+#showtooltip Cleanse
+/cast [target=mouseover] Cleanse
+END
+VER 3 0100000000000007 "Divine" "INV_Misc_QuestionMark"
+#showtooltip Divine light
+/cast [target=mouseover] Divine light
+END
+VER 3 010000000000000E "Flame" "INV_MISC_QUESTIONMARK"
+#showtooltip Eternal Flame
+/cast [target=mouseover] Eternal Flame
+END
+VER 3 0100000000000003 "Flash" "INV_Misc_QuestionMark"
+#showtooltip Flash of Light
+/cast [target=mouseover] Flash of light
+END
+VER 3 0100000000000008 "Hands" "INV_Misc_QuestionMark"
+#showtooltip Lay on Hands
+/cast [target=mouseover] Lay on Hands
+END
+VER 3 010000000000000C "Hof" "INV_MISC_QUESTIONMARK"
+#showtooltip Hand of Freedom
+/cast [target=mouseover] Hand of Freedom
+END
+VER 3 0100000000000005 "Holy " "INV_Misc_QuestionMark"
+#showtooltip Holy light
+/cast [target=mouseover] Holy light
+END
+VER 3 010000000000000B "Hop" "INV_MISC_QUESTIONMARK"
+#showtooltip Hand of Protection
+/cast [target=mouseover] Hand of Protection
+END
+VER 3 010000000000000F "MANA" "INV_MISC_QUESTIONMARK"
+#showtooltip Divine Plea
+/use Scroll of Revered Ancestors
+/use Contemplation of Chi-Ji
+/cast Divine Plea
+END
+VER 3 010000000000000A "RAD" "INV_MISC_QUESTIONMARK"
+#showtooltip Holy Radiance
+/cast [target=mouseover] Holy Radiance
+END
+VER 3 010000000000000D "sac" "INV_MISC_QUESTIONMARK"
+#showtooltip Hand of Sacrifice
+/cast [target=mouseover] Hand of Sacrifice
+END
+VER 3 0100000000000009 "shock" "INV_Misc_QuestionMark"
+#showtooltip holy shock
+/cast [target=mouseover] holy shock
+END
+VER 3 0100000000000010 "T3" "ACHIEVEMENT_GUILD_FORGREATJUSTICERANK2"
+.item 1 22428
+.item 3 22429
+.item 5 22425
+.item 6 22431
+.item 7 22427
+.item 8 22430
+.item 9 22424
+.item 10 22426
+.item 16 51916
+.item 17 51812
+.mount 51481
+END
+VER 3 0100000000000001 "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1PH[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000002 "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Kri[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000004 "W0RD" "INV_Misc_QuestionMark"
+#showtooltip Word of Glory
+/cast [target=mouseover] Word of Glory
+END

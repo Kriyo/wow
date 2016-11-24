@@ -1,0 +1,24 @@
+
+dbGACperChar = {
+	["profileKeys"] = {
+		["Kriyo - The Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["history"] = {
+				[1191] = {
+					[1474195582] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+				[1328] = {
+					[1474195583] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,10 @@
+
+GottaGoFastDB = {
+	["profileKeys"] = {
+		["Krimeariver - The Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

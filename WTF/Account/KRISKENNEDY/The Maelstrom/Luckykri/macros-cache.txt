@@ -1,0 +1,48 @@
+VER 3 0100000000000005 "fel" "1031596"
+.item 1 22506
+.item 3 22507
+.item 5 22504
+.item 6 22510
+.item 7 22505
+.item 8 22508
+.item 9 22511
+.item 10 22509
+END
+VER 3 0100000000000002 "Fire" "135809"
+/castsequence reset=15 Combustion, Pyroblast, Fire Blast, Pyroblast, Fire Blast, Pyroblast, Flame On, Fire Blast, Pyroblast, Fire Blast, Pyroblast, Scorch, Pyroblast, Scorch, Pyroblast
+END
+VER 3 0100000000000007 "Flamestrike" "INV_MISC_QUESTIONMARK"
+#showtooltip Flamestrike
+/cast [@cursor] Flamestrike
+END
+VER 3 0100000000000001 "Freeze" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Freeze
+END
+VER 3 0100000000000003 "Gear" "1411837"
+.mount 15676
+.item 3 22499
+.item 5 22496
+.item 6 22502
+.item 7 22497
+.item 8 22500
+.item 9 22503
+.item 10 22501
+.item 16 22589
+END
+VER 3 0100000000000004 "IB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cancelaura Ice Block
+/cast Ice Block
+END
+VER 3 0100000000000006 "lockcm" "1031129"
+.item 1 90142
+.item 3 90138
+.item 5 90140
+.item 6 90136
+.item 7 90143
+.item 8 90137
+.item 9 90139
+.item 10 90141
+END

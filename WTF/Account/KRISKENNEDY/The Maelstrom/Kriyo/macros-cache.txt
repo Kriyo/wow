@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "sa" "INV_MISC_QUESTIONMARK"
+/target kriyo
+/cast heroism
+END

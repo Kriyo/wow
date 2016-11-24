@@ -1,0 +1,18 @@
+
+dbGACperChar = {
+	["profileKeys"] = {
+		["Krimeariver - The Maelstrom"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["history"] = {
+				[1340] = {
+					[1474195680] = {
+						["result"] = 100,
+						["success"] = true,
+					},
+				},
+			},
+		},
+	},
+}

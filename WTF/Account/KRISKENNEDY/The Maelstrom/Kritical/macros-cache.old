@@ -1,0 +1,62 @@
+VER 3 010000000000000B "Cleanse" "INV_MISC_QUESTIONMARK"
+#showtooltip Remove Corruption
+/cast [target=mouseover][target=target] Remove Corruption
+END
+VER 3 010000000000000D "CW" "INV_MISC_QUESTIONMARK"
+#showtooltip Cenarion Ward
+/cast [target=mouseover][target=target] Cenarion Ward
+END
+VER 3 0100000000000004 "ht" "INV_MISC_QUESTIONMARK"
+#showtooltip Healing Touch
+/cast [target=mouseover][target=target] Healing Touch
+END
+VER 3 0100000000000005 "IB" "INV_MISC_QUESTIONMARK"
+#showtooltip Ironbark
+/cast [target=mouseover][target=target] Ironbark
+END
+VER 3 0100000000000002 "lb" "INV_MISC_QUESTIONMARK"
+#showtooltip Lifebloom
+/cast [target=mouseover][target=target] Lifebloom
+END
+VER 3 0100000000000009 "mush" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Mushroom
+/cast [target=mouseover][target=target] Wild Mushroom
+END
+VER 3 0100000000000007 "NC" "INV_MISC_QUESTIONMARK"
+#showtooltip Nature's Cure
+/cast [target=mouseover][target=target] Nature's Cure
+END
+VER 3 0100000000000001 "reg" "INV_MISC_QUESTIONMARK"
+#showtooltip Regrowth
+/cast [target=mouseover][target=target] Regrowth
+END
+VER 3 0100000000000003 "rej" "INV_MISC_QUESTIONMARK"
+#showtooltip Rejuvenation
+/cast [target=mouseover][target=target] Rejuvenation
+END
+VER 3 0100000000000006 "res" "INV_MISC_QUESTIONMARK"
+#showtooltip Rebirth
+/cast [target=mouseover][target=target] Rebirth
+END
+VER 3 010000000000000C "SM" "INV_MISC_QUESTIONMARK"
+#showtooltip Swiftmend
+/cast [target=mouseover][target=target] Swiftmend
+END
+VER 3 0100000000000008 "WG" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Growth
+/cast [target=mouseover][target=target] Wild Growth
+END
+VER 3 010000000000000A "xd" "INV_PET_BATTLEPETTRAINING"
+.item 1 90062
+.item 3 90065
+.item 5 90064
+.item 9 90066
+.item 10 90061
+.item 6 90059
+.item 7 90063
+.item 8 90060
+.item 15 102246
+.item 16 46017
+.enchant 1 243
+.title 33
+END

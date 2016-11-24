@@ -1,0 +1,45 @@
+
+dbGACB = {
+	["char"] = {
+		["Krî - The Maelstrom"] = {
+			["firstun"] = false,
+		},
+	},
+	["global"] = {
+		["firstrun"] = false,
+		["missionType"] = {
+			[1341] = 4,
+			[1112] = 4,
+		},
+	},
+	["realm"] = {
+		["The Maelstrom"] = {
+			["cachesize"] = {
+				["Krî"] = 1000,
+			},
+			["missions"] = {
+				"000001474205911.1341.Krî.4", -- [1]
+				"000001474238487.1112.Krî.4", -- [2]
+			},
+			["farms"] = {
+				["Krî"] = {
+					["Herb Garden"] = 0,
+					["Lunarfall Excavation"] = 0,
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Krî - The Maelstrom"] = "Krî - The Maelstrom",
+	},
+	["profiles"] = {
+		["Krî - The Maelstrom"] = {
+			["toggles"] = {
+				["FREQUENCY"] = 5,
+				["SUMMARY"] = false,
+				["OLDINT"] = false,
+				["SHOWNEXT"] = false,
+			},
+		},
+	},
+}

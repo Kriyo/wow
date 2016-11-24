@@ -1,0 +1,32 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/who scrubbuster", -- [1]
+		"/cw Luun ginv plx", -- [2]
+		"/camp", -- [3]
+	},
+	["ChatLog"] = {
+		["1472160789.465"] = {
+			"ginv plx", -- [1]
+			"Luun", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Luun", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1054, -- [11]
+			"Player-1596-0761EF57", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			nil, -- [18]
+			nil, -- [19]
+			"CHAT_MSG_WHISPER_INFORM", -- [20]
+		},
+	},
+}
